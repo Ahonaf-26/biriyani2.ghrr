@@ -1,0 +1,6 @@
+{
+  "name": "Biriyani Gharr",
+  "description": "Slow-cooked artisanal dum biriyani plates customized and ordered fresh from our kitchen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
